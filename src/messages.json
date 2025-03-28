@@ -1,0 +1,32 @@
+{
+    "1": {
+        "startingMessage": "Tap all the words which are English words.",
+        "successMessage": "Great job! Lets try another example. Click the right arrow.",
+        "failureMessage": "Oops! Don't worry, try again on the next word! Click the right arrow"
+    },
+    "2": {
+        "startingMessage": "This one is a little more tricky but I think you can get it.",
+        "successMessage": "Awesome! You go the hang of this.",
+        "failureMessage": "What a great way to learn words, try again on the next one :)"
+    },
+    "3": {
+        "startingMessage": "Getting trickier, give it your best shot",
+        "successMessage": "Are you a dictionary?",
+        "failureMessage": "It's okay, not everyone spent their summer holidays reading dictionaries"
+    },
+    "4": {
+        "startingMessage": "You're gonna stoak on this one.",
+        "successMessage": "Are you sure you're not cheating?",
+        "failureMessage": "Honestly I didn't even know half these words existed."
+    },
+    "5": {
+        "startingMessage": "Trust your instincts.",
+        "successMessage": "Smarty pants with your smarty instincts. Thought I would've got you on this one.",
+        "failureMessage": "Gotcha! There can be more than one fake word."
+    },
+    "6": {
+        "startingMessage": "Trust your instincts.",
+        "successMessage": "You're a confident one aren't you.",
+        "failureMessage": "You're probably starting to have trust issues right about now...."
+    }
+}

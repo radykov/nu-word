@@ -1,0 +1,139 @@
+{
+    "1": [
+        {
+            "word": "NEW",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "NU",
+            "description": "",
+            "isNu": true
+        },
+        {
+            "word": "KNEW",
+            "description": "",
+            "isNu": false
+        }
+    ],
+    "2": [
+        {
+            "word": "QUIP",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "COLK",
+            "description": "A smelly thing",
+            "isNu": true
+        },
+        {
+            "word": "LIKE",
+            "description": "A fake word, silly",
+            "isNu": false
+        },
+        {
+            "word": "JINX",
+            "description": "You will feel good if you get this one",
+            "isNu": false
+        }
+    ],
+    "3": [
+        {
+            "word": "QUARK",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "GLYPH",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "KNELL",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "SLORM",
+            "description": "",
+            "isNu": true
+        }
+    ],
+    "4": [
+        {
+            "word": "ANTIDISPONDENT",
+            "description": "",
+            "isNu": true
+        },
+        {
+            "word": "ANTIBIOSIS",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "ANTILITHIC",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "ANTILAPSARIAN",
+            "description": "",
+            "isNu": false
+        }
+    ],
+    "5": [
+        {
+            "word": "ZEPHYR",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "BANTER",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "QUORAX",
+            "description": "",
+            "isNu": true
+        },
+        {
+            "word": "QUICHE",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "SQUEG",
+            "description": "",
+            "isNu": true
+        }
+    ],
+    "6": [
+        {
+            "word": "SMAZE",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "SLART",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "QUARK",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "KUDZU",
+            "description": "",
+            "isNu": false
+        },
+        {
+            "word": "WHISKY",
+            "description": "",
+            "isNu": false
+        }
+    ]
+}
