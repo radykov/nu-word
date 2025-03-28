@@ -15,18 +15,23 @@
         "failureMessage": "It's okay, not everyone spent their summer holidays reading dictionaries"
     },
     "4": {
-        "startingMessage": "You're gonna stoak on this one.",
+        "startingMessage": "I'm gonna stoke you with this one.",
         "successMessage": "Are you sure you're not cheating?",
         "failureMessage": "Honestly I didn't even know half these words existed."
     },
     "5": {
+        "startingMessage": "It's getting a bit anti-easy now.",
+        "successMessage": "I did not anti-cipate you'd be this good.",
+        "failureMessage": "You're gonna be anti-me by the time this is done."
+    },
+    "6": {
         "startingMessage": "Trust your instincts.",
         "successMessage": "Smarty pants with your smarty instincts. Thought I would've got you on this one.",
         "failureMessage": "Gotcha! There can be more than one fake word."
     },
-    "6": {
+    "7": {
         "startingMessage": "Trust your instincts.",
-        "successMessage": "You're a confident one aren't you.",
-        "failureMessage": "You're probably starting to have trust issues right about now...."
+        "successMessage": "You're a confident one aren't you. PS this is all for now, more levels soon.",
+        "failureMessage": "You're probably starting to have trust issues right about now... PS this is all for now, more levels soon."
     }
 }

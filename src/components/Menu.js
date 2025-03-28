@@ -54,7 +54,7 @@ const Menu = ({ onClose }) => {
                 >
                     x
                 </button>
-                <h2 style={{ textAlign: 'center', marginBottom: '20px', color: theme.colors.menuItemText }}>Menu</h2>
+                <h2 style={{ textAlign: 'center', marginBottom: '20px', color: theme.colors.menuText }}>Menu</h2>
                 <div>
                     {menuItems.map((item, idx) => (
                         <button

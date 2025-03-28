@@ -1,20 +1,26 @@
 // /src/styles.js
+
+const BLUE_BACKGROUND = '#039be5';
+const WHITE = '#ffffff';
+const BLACK = '#000000';
+
 export const theme = {
     fonts: {
         primary: "'Segoe UI', sans-serif",
     },
     colors: {
-        default: '#ffffff',
+        default: WHITE,
         correct: '#4CAF50',
         wrong: '#F44336',
         // Softer pastel rainbow gradient for "found" state
         foundGradient: 'linear-gradient(90deg, #ff9a9e, #fad0c4, #fad0c4, #a18cd1, #fbc2eb)',
-        headerBackground: '#039be5',
-        headerText: '#ffffff',
+        headerBackground: BLUE_BACKGROUND,
+        headerText: WHITE,
+        menuText: BLACK,
         menuBackground: '#e1f5fe',
-        menuItemBackground: '#81d4fa',
-        menuItemText: '#01579b',
-        arrowEnabled: '#039be5',
+        menuItemBackground: BLUE_BACKGROUND,
+        menuItemText: WHITE,
+        arrowEnabled: BLUE_BACKGROUND,
         arrowDisabled: '#ccc',
     },
     transitions: {
