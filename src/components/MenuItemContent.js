@@ -2,6 +2,7 @@
 import React from 'react';
 import MenuItemContentTitle from './MenuItemContentTitle';
 import MenuItemContentBody from './MenuItemContentBody';
+import { mobileView, theme } from '../styles';
 
 const MenuItemContent = ({ title, content, onClose }) => {
     return (

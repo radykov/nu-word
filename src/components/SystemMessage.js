@@ -1,5 +1,5 @@
 // /src/components/SystemMessage.js
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import { mobileView } from '../styles';
 import { useLevel } from '../contexts/LevelContext';
 import messages from '../messages.json';
