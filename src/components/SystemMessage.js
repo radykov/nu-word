@@ -7,7 +7,7 @@ import messages from '../messages.json';
 const SystemMessage = () => {
     const { currentLevel, levelInfo } = useLevel();
     const [message, setMessage] = useState('');
-    const levelMessages = messages[String(currentLevel)] || {};
+    const levelMessages = useMemo(() => messages[String(currentLevel)] || {}, [currentLevel]);
 
     useEffect(() => {
         if (!levelInfo.completed) {
